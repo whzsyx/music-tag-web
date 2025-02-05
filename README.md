@@ -36,7 +36,7 @@ DFF, MP4等音频格式。
 # 🦀 Show Project
 DEMO 地址账号密码为：admin/admin
 
-[【音乐标签Web｜Music Tag Web】](http://42.193.218.103:8002/#/)
+[【音乐标签Web｜Music Tag Web】](http://114.96.87.132:8002/#/)
 
 # 🔨 How to Build?
 ```bash
@@ -129,9 +129,9 @@ ps. `/path/to/your/music` 改成你的音乐文件夹路径！`/path/to/your/con
 
 # 💬 Contact me
 如有什么意见需求，请先 star 后提出issues，我会满足你的需求，在我的能力范围内。
-issue 没及时看到的，可以加群讨论！
+issue 没及时看到的，可以加群讨论！（或者请添加我微信：charlesnowed（备注：**Music Tag**），我会拉你进群。）
 <div>
-<img  src="/img_6.png" width="250">  &nbsp;
+<img  src="/img_13.png" width="250">  &nbsp;
 </div>
 ## 发布频道：
 
